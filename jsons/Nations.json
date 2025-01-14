@@ -31,5 +31,16 @@
 		"innerColor": [200,200,0],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Anaisa", "Noxina", "Basci", "Gonzia", "Ponin", "Laski", "Zani", "Kini", "Nomon", "Vaya", "Janis", "Oxfon", "Lani", "Nillo", "Nario", "Manis", "Olona", "Yasnik", "Kalasa"]
-	}
+	},
+	{
+		"name": "Ininiza",
+		"adjective": ["Ininizan"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "We are WAR! We are NATION! You are DOOMED.",
+		"attacked": "WE WERE GONNA DO THAT! GRRRR!",
+		"defeated": "HOW!? WE ARE GODS! We will CURSE you from beyond!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0, 0, 150],
+		"cities": ["Ininiza"]
 ]
