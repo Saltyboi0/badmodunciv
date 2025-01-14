@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Saeni",
+		"leaderName": "'Ani'",
+		"adjective": ["saenian"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "This federal state stands alone, though with many faces within and many names held.",
+		"startIntroPart2": "The Saenian confederacy will dominate this world.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You are a scourge! Prepare to bledd for our state.",
+		"attacked": "Our military might will prove superior.",
+		"defeated": "We may die now, but we will rise again...",
+		"introduction": "Greetings! We walk a path uncharted! May we speak in good tidings!",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["What is this deal?", "Allow us to hear this.","Clearly communicate your statement."],
+		"neutralNo": ["Never.","No!","Why would I accept this?"],
+		"neutralYes": ["Of course.","Very good to see.","We gleefully accept."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "... *The silence is deafening.*",
+		"hateLetsHearIt": ["Well, then SPEAK!","What is so important as to bother us?","What could you offer us?"],
+		"hateNo": ["Is this an insult!?","We are not agreeing to that!","Are you DAFT!?"],
+		"hateYes": ["Fine, then.","We will accept, painfully.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Peace in our time is assured, for now.",
+		"tradeRequest": "This deal shall peak your interest.",
 
 		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"innerColor": [200,200,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Anaisa", "Noxina", "Basci", "Gonzia", "Ponin", "Laski", "Zani", "Kini", "Nomon", "Vaya", "Janis", "Oxfon", "Lani", "Nillo", "Nario", "Manis", "Olona", "Yasnik", "Kalasa"]
 	}
 ]
